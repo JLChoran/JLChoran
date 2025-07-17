@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# I'm Joshua, I'm currently working at Motion as a DevOps Enginner. Based in Birmingham, AL. 
+### I'm Joshua, I'm currently working at Motion as a DevOps Enginner. Based in Birmingham, AL. 
 
-# LinkedIn: https://www.linkedin.com/in/joshua-choran
+### LinkedIn: https://www.linkedin.com/in/joshua-choran
 
 <!--
 **JLChoran/JLChoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
