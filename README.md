@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Joshua. I'm currently working at Motion as a DevOps Engineer based in Birmingham, AL. 
+### I'm Joshua. I'm currently working at Motion as a Junior DevOps Engineer based in Birmingham, AL. 
 
 ### LinkedIn: https://www.linkedin.com/in/joshua-choran-108527134/ 
 
