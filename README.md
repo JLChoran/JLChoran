@@ -2,6 +2,14 @@
 
 ### I'm Joshua. I'm currently working at Motion as a DevOps Engineer based in Birmingham, AL. 
 
+## 🧠 Currently Learning
+
+I'm currently learning how to use:
+
+- **Git** for version control
+- **Git Bash** to run Git commands and interact with repositories
+- **Bash scripting** to automate tasks and navigate the command line more efficiently
+
 ### LinkedIn: https://www.linkedin.com/in/joshua-choran-108527134/ 
 
 <!--
