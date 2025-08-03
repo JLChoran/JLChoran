@@ -1,15 +1,34 @@
-## Hi there 👋
+## 👋 Hi there!
 
-### I'm Joshua. I'm currently working at Motion as a DevOps Engineer based in Birmingham, AL. 
+I'm **Joshua**, a DevOps Engineer at **Motion**, based in **Birmingham, AL**.  
+Currently expanding my skill set and working toward my **GitHub Admin Certification** 🛠️
 
-## 🧠 Currently Learning
+---
 
-How to use:
+## 🧠 What I'm Learning
 
-- **Git** for version control
-  - https://git-scm.com/doc 
-- **Git Bash** to run Git commands and interact with repositories
-- **Bash scripting** to automate tasks and navigate the command line more efficiently
+I'm currently deepening my expertise in tools that make development more efficient and powerful:
+
+- 🔧 **Git** – Version control made easy  
+  [Official Documentation](https://git-scm.com/doc)
+
+- 💻 **Git Bash** – Running Git commands & interacting with repositories
+
+- 🐚 **Bash Scripting** – Automating tasks & mastering the command line
+
+---
+
+## 🚀 Goals
+
+- Achieve **GitHub Admin Certification**
+- Build more automation pipelines
+- Continue improving CI/CD workflows
+
+---
+
+Thanks for stopping by! 🙌  
+Feel free to connect or check out some of my projects.
+
 
 ### LinkedIn: https://www.linkedin.com/in/joshua-choran-108527134/ 
 
