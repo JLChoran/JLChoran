@@ -4,9 +4,10 @@
 
 ## 🧠 Currently Learning
 
-I'm currently learning how to use:
+How to use:
 
 - **Git** for version control
+- https://git-scm.com/doc 
 - **Git Bash** to run Git commands and interact with repositories
 - **Bash scripting** to automate tasks and navigate the command line more efficiently
 
