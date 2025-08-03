@@ -12,22 +12,13 @@ I'm currently deepening my expertise in tools that make development more efficie
 - 🔧 **Git** – Version control made easy  
   [Official Documentation](https://git-scm.com/doc)
 
-- 💻 **Git Bash** – Running Git commands & interacting with repositories
+- **Git Bash** – Running Git commands & interacting with repositories
 
-- 🐚 **Bash Scripting** – Automating tasks & mastering the command line
+- **Bash Scripting** – Automating tasks & mastering the command line
 
----
-
-## 🚀 Goals
-
-- Achieve **GitHub Admin Certification**
-- Build more automation pipelines
-- Continue improving CI/CD workflows
+- **GitHub Admin Cert** - https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03 
 
 ---
-
-Thanks for stopping by! 🙌  
-Feel free to connect or check out some of my projects.
 
 
 ### LinkedIn: https://www.linkedin.com/in/joshua-choran-108527134/ 
