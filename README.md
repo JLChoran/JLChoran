@@ -9,7 +9,7 @@ Currently expanding my skill set and working toward my **GitHub Admin Certificat
 
 I'm currently deepening my expertise in tools that make development more efficient and powerful:
 
-- 🔧 **Git** – Version control made easy  
+- 🔧 **Git** – Version control 
   -  [Official Documentation](https://git-scm.com/doc)
 
 - **Git Bash** – Running Git commands & interacting with repositories
