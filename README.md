@@ -1,16 +1,15 @@
 ## 👋 Hi there!
 
 I'm **Joshua**, a DevOps Engineer at **Motion**, based in **Birmingham, AL**.  
-Currently expanding my skill set and working toward my **GitHub Admin Certification** 🛠️
+Currently expanding my skill set and working toward my **GitHub Admin Certification** 
 
 ---
 
 ## 🧠 What I'm Learning
 
-I'm currently deepening my expertise in tools that make development more efficient and powerful:
-
 - **Git** – Version control 
-  -  [Official Documentation](https://git-scm.com/doc)
+  -  [Official Git Documentation](https://git-scm.com/doc)
+  -  [Atlassian Git Documentation](https://www.atlassian.com/git/tutorials)
 
 - **Git Bash** – Running Git commands & interacting with repositories
 
