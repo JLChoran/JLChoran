@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/joshua-choran-108527134/)
 
 I'm **Joshua**, a Junior DevOps Engineer at **Motion**, based in **Birmingham, AL**.  
-Enjoying the journey of technical discovery—driven by my curiosity.
+Enjoying the journey of technical discovery—driven curiosity.
 
 ---
 
