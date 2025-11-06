@@ -1,38 +1,22 @@
 ## 👋 Hi there!
 
-I'm **Joshua**, a DevOps Engineer at **Motion**, based in **Birmingham, AL**.  
-Currently expanding my skill set and working toward my **GitHub Admin Certification** 
+![GitHub Admin Certified](https://img.shields.io/badge/GitHub%20Admin-Certified-blue?logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/joshua-choran-108527134/)
+
+I'm **Joshua**, a Junior DevOps Engineer at **Motion**, based in **Birmingham, AL**.  
+Enjoying the journey of technical discovery—driven by my curiosity.
 
 ---
 
 ## 🧠 What I'm Learning
 
-- **Git** – Version control 
-  -  [Official Git Documentation](https://git-scm.com/doc)
-  -  [Atlassian Git Documentation](https://www.atlassian.com/git/tutorials)
+- **Linux** – Operating system fundamentals & system management  
+  - [Linux.org Documentation & Forums](https://linux.org/forums/)  
+  - [r/linux FAQ](https://www.reddit.com/r/linux/wiki/faq/)  
+  - [DistroWatch](https://distrowatch.com/)
 
-- **Git Bash** – Running Git commands & interacting with repositories
+- **Git** – Version control  
+  - [Official Git Documentation](https://git-scm.com/doc)  
+  - [Atlassian Git Documentation](https://www.atlassian.com/git/tutorials)
 
 - **Bash Scripting** – Automating tasks & mastering the command line
-
-- **GitHub Admin Cert** - https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03 
-
----
-
-
-### LinkedIn: https://www.linkedin.com/in/joshua-choran-108527134/ 
-
-<!--
-**JLChoran/JLChoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
